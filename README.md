@@ -22,4 +22,4 @@ Cette page vous aide à **trouver la bonne URL sans perdre de temps.**
 
 ## 🖼️ Aperçu
 
-![vodi, vodi.to, vodito](https://jtrouve.com/wp-content/uploads/2025/08/vodi-streaming.webp)
+![Vodi Streaming](./vodi%20streaming.jpg)
